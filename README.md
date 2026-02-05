@@ -43,3 +43,13 @@ The models were evaluated using classification metrics with a focus on Precision
 ---
 
 ## 📂 Repository Structure
+---
+
+## 📊 Model Evaluation
+
+Final model: **Logistic Regression**
+
+The Logistic Regression model was selected as the final model due to its balanced precision and recall, which is critical for loan approval decisions.
+
+![Logistic Regression Evaluation](images/logistic_regression_evaluation.png)
+
